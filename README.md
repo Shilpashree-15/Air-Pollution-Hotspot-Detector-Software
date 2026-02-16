@@ -1,7 +1,6 @@
 # Air-Pollution-Hotspot-Detector-Software
 
 
-# Air Pollution Hotspot Detector – Software Dashboard
 
 This is the software part of the Air Pollution Hotspot Detector project.
 It uses Flask (Python) to simulate AQI data and show a live dashboard.
